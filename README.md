@@ -49,3 +49,4 @@ Contributions to Phish Hunter are welcome! If you find any issues or have sugges
 The Phish Hunter project is open-source and licensed under the MIT License.
 
 #Thank you 
+#Developed by Hemant
